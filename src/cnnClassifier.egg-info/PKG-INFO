@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/harshoo1/kidney_disease_classification
+Author: harshoo1
+Author-email: harshsharma11d@gmail.com
+Project-URL: Bug Tracker, https://github.com/harshoo1/kidney_disease_classification/issues
+License-File: LICENSE
+
+<!-- kidney disease class classification 
+developed by harsh -->
